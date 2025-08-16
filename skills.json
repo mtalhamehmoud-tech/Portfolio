@@ -1,0 +1,96 @@
+[
+
+
+    {
+        "name": "C#",
+        "icon": "assets/images/skills/csharp.png"
+    },
+    {
+        "name": ".NET Framework",
+        "icon": "assets/images/skills/net-framework.png"
+    },
+    {
+        "name": ".NET Core",
+        "icon": "assets/images/skills/dot-net-core.png"
+    },
+    {
+        "name": "Entity Framework",
+        "icon": "assets/images/skills/entityframework.png"
+    },
+    {
+        "name": "ASP .NET Web API",
+        "icon": "assets/images/skills/aspwebapi.jpg"
+    },
+    {
+        "name": "ADOT.NET",
+        "icon": "assets/images/skills/ADO.jpg"
+    },
+    {
+        "name": "MS SQL",
+        "icon": "assets/images/skills/mssql.jpg"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Telerik",
+        "icon": "assets/images/skills/telerik.png"
+    },
+    {
+        "name": "XML",
+        "icon": "assets/images/skills/xml.jpg"
+    },
+    {
+        "name": "Angular",
+        "icon": "assets/images/skills/angular.png"
+    },
+    {
+        "name": "Material UI",
+        "icon": "assets/images/skills/material.png"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "assets/images/skills/typescript.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "Sass",
+        "icon": "https://img.icons8.com/color/48/000000/sass.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "TFS",
+        "icon": "assets/images/skills/tfs.png"
+    },
+    {
+        "name": "BitBucket",
+        "icon": "assets/images/skills/bit.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "assets/images/skills/docker.png"
+    }
+]
